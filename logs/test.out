@@ -1,0 +1,155 @@
+empty
+Sender: LSF System <lsfadmin@polus-c3-ib.bmc.hpc.cs.msu.ru>
+Subject: Job 176491: <./wrapper.sh 128 1 1 1> in cluster <MSUCluster> Done
+
+Job <./wrapper.sh 128 1 1 1> was submitted from host <polus-ib.bmc.hpc.cs.msu.ru> by user <edu-cmc-skmodel18-616-04> in cluster <MSUCluster> at Sat Dec 15 10:49:54 2018
+Job was executed on host(s) <polus-c3-ib.bmc.hpc.cs.msu.ru>, in queue <short>, as user <edu-cmc-skmodel18-616-04> in cluster <MSUCluster> at Sat Dec 15 11:00:47 2018
+</home_edu/edu-cmc-skmodel18-616/edu-cmc-skmodel18-616-04> was used as the home directory.
+</home_edu/edu-cmc-skmodel18-616/edu-cmc-skmodel18-616-04/code/cpp/mpiwaves> was used as the working directory.
+Started at Sat Dec 15 11:00:47 2018
+Terminated at Sat Dec 15 11:01:32 2018
+Results reported at Sat Dec 15 11:01:32 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./wrapper.sh 128 1 1 1
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   43.85 sec.
+    Max Memory :                                 169 MB
+    Average Memory :                             145.00 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              5
+    Max Threads :                                12
+    Run time :                                   45 sec.
+    Turnaround time :                            698 sec.
+
+The output (if any) follows:
+
+N = 128
+Gx = 1
+Gy = 1
+Gz = 1
+T = 0.481914
+h   = 0.0981748
+tau = 0.00481914
+Running
+Frame 0: metrics = 0
+Frame 1: metrics = 2.77689e-08
+Frame 2: metrics = 1.11072e-07
+Frame 3: metrics = 2.49897e-07
+Frame 4: metrics = 4.44224e-07
+Frame 5: metrics = 6.94028e-07
+Frame 6: metrics = 9.99273e-07
+Frame 7: metrics = 1.35992e-06
+Frame 8: metrics = 1.77591e-06
+Frame 9: metrics = 2.24719e-06
+Frame 10: metrics = 2.7737e-06
+Frame 11: metrics = 3.35535e-06
+Frame 12: metrics = 3.99208e-06
+Frame 13: metrics = 4.68379e-06
+Frame 14: metrics = 5.43039e-06
+Frame 15: metrics = 6.23176e-06
+Frame 16: metrics = 7.08781e-06
+Frame 17: metrics = 7.9984e-06
+Frame 18: metrics = 8.96342e-06
+Frame 19: metrics = 9.98272e-06
+Frame 20: metrics = 1.10562e-05
+Frame 21: metrics = 1.21836e-05
+Frame 22: metrics = 1.33649e-05
+Frame 23: metrics = 1.45999e-05
+Frame 24: metrics = 1.58883e-05
+Frame 25: metrics = 1.72301e-05
+Frame 26: metrics = 1.8625e-05
+Frame 27: metrics = 2.00729e-05
+Frame 28: metrics = 2.15735e-05
+Frame 29: metrics = 2.31266e-05
+Frame 30: metrics = 2.4732e-05
+Frame 31: metrics = 2.63895e-05
+Frame 32: metrics = 2.80989e-05
+Frame 33: metrics = 2.98598e-05
+Frame 34: metrics = 3.16722e-05
+Frame 35: metrics = 3.35356e-05
+Frame 36: metrics = 3.54499e-05
+Frame 37: metrics = 3.74148e-05
+Frame 38: metrics = 3.943e-05
+Frame 39: metrics = 4.14952e-05
+Frame 40: metrics = 4.36101e-05
+Frame 41: metrics = 4.57745e-05
+Frame 42: metrics = 4.7988e-05
+Frame 43: metrics = 5.02503e-05
+Frame 44: metrics = 5.25611e-05
+Frame 45: metrics = 5.49201e-05
+Frame 46: metrics = 5.7327e-05
+Frame 47: metrics = 5.97813e-05
+Frame 48: metrics = 6.22828e-05
+Frame 49: metrics = 6.48311e-05
+Frame 50: metrics = 6.74259e-05
+Frame 51: metrics = 7.00667e-05
+Frame 52: metrics = 7.27532e-05
+Frame 53: metrics = 7.54851e-05
+Frame 54: metrics = 7.82619e-05
+Frame 55: metrics = 8.10832e-05
+Frame 56: metrics = 8.39487e-05
+Frame 57: metrics = 8.68579e-05
+Frame 58: metrics = 8.98104e-05
+Frame 59: metrics = 9.28058e-05
+Frame 60: metrics = 9.58437e-05
+Frame 61: metrics = 9.89237e-05
+Frame 62: metrics = 0.000102045
+Frame 63: metrics = 0.000105208
+Frame 64: metrics = 0.000108411
+Frame 65: metrics = 0.000111655
+Frame 66: metrics = 0.000114939
+Frame 67: metrics = 0.000118261
+Frame 68: metrics = 0.000121623
+Frame 69: metrics = 0.000125023
+Frame 70: metrics = 0.000128461
+Frame 71: metrics = 0.000131936
+Frame 72: metrics = 0.000135448
+Frame 73: metrics = 0.000138997
+Frame 74: metrics = 0.000142581
+Frame 75: metrics = 0.000146201
+Frame 76: metrics = 0.000149855
+Frame 77: metrics = 0.000153544
+Frame 78: metrics = 0.000157267
+Frame 79: metrics = 0.000161023
+Frame 80: metrics = 0.000164811
+Frame 81: metrics = 0.000168632
+Frame 82: metrics = 0.000172484
+Frame 83: metrics = 0.000176368
+Frame 84: metrics = 0.000180281
+Frame 85: metrics = 0.000184225
+Frame 86: metrics = 0.000188198
+Frame 87: metrics = 0.000192199
+Frame 88: metrics = 0.000196229
+Frame 89: metrics = 0.000200287
+Frame 90: metrics = 0.000204371
+Frame 91: metrics = 0.000208482
+Frame 92: metrics = 0.000212618
+Frame 93: metrics = 0.00021678
+Frame 94: metrics = 0.000220966
+Frame 95: metrics = 0.000225176
+Frame 96: metrics = 0.000229409
+Frame 97: metrics = 0.000233665
+Frame 98: metrics = 0.000237943
+Frame 99: metrics = 0.000242243
+Frame 100: metrics = 0.000246563
+Finished!
+Total frames: 100
+Elapsed time: 43.6757
+Avg time per frame: 0.436757
+
+
+PS:
+
+Read file <logs/test.err> for stderr output of this job.
+
